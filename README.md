@@ -1,6 +1,3 @@
-# hello-world
-Learning the gits hubs
-
 Dear Miss Piggy,
 
 Why are there so many
